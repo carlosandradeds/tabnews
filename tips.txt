@@ -1,0 +1,4 @@
+python "/home/carlos.queiroz/Documentos/tabnews/raw/ingestion.py" --delay 30 --url "https://www.tabnews.com.br/api/v1/contents/" --bucket "kaka-projects"
+
+
+comando para rodar o script
